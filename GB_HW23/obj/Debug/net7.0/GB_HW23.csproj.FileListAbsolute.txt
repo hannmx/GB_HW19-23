@@ -1,0 +1,15 @@
+D:\C# Prog\CS_VSC\GB_HW23\obj\Debug\net7.0\GB_HW23.csproj.AssemblyReference.cache
+D:\C# Prog\CS_VSC\GB_HW23\obj\Debug\net7.0\GB_HW23.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Prog\CS_VSC\GB_HW23\obj\Debug\net7.0\GB_HW23.AssemblyInfoInputs.cache
+D:\C# Prog\CS_VSC\GB_HW23\obj\Debug\net7.0\GB_HW23.AssemblyInfo.cs
+D:\C# Prog\CS_VSC\GB_HW23\obj\Debug\net7.0\GB_HW23.csproj.CoreCompileInputs.cache
+D:\C# Prog\CS_VSC\GB_HW23\bin\Debug\net7.0\GB_HW23.exe
+D:\C# Prog\CS_VSC\GB_HW23\bin\Debug\net7.0\GB_HW23.deps.json
+D:\C# Prog\CS_VSC\GB_HW23\bin\Debug\net7.0\GB_HW23.runtimeconfig.json
+D:\C# Prog\CS_VSC\GB_HW23\bin\Debug\net7.0\GB_HW23.dll
+D:\C# Prog\CS_VSC\GB_HW23\bin\Debug\net7.0\GB_HW23.pdb
+D:\C# Prog\CS_VSC\GB_HW23\obj\Debug\net7.0\GB_HW23.dll
+D:\C# Prog\CS_VSC\GB_HW23\obj\Debug\net7.0\refint\GB_HW23.dll
+D:\C# Prog\CS_VSC\GB_HW23\obj\Debug\net7.0\GB_HW23.pdb
+D:\C# Prog\CS_VSC\GB_HW23\obj\Debug\net7.0\GB_HW23.genruntimeconfig.cache
+D:\C# Prog\CS_VSC\GB_HW23\obj\Debug\net7.0\ref\GB_HW23.dll
