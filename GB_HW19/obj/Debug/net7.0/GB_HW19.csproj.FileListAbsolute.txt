@@ -1,0 +1,15 @@
+D:\C# Prog\CS_VSC\GB_HW19\bin\Debug\net7.0\GB_HW19.exe
+D:\C# Prog\CS_VSC\GB_HW19\bin\Debug\net7.0\GB_HW19.deps.json
+D:\C# Prog\CS_VSC\GB_HW19\bin\Debug\net7.0\GB_HW19.runtimeconfig.json
+D:\C# Prog\CS_VSC\GB_HW19\bin\Debug\net7.0\GB_HW19.dll
+D:\C# Prog\CS_VSC\GB_HW19\bin\Debug\net7.0\GB_HW19.pdb
+D:\C# Prog\CS_VSC\GB_HW19\obj\Debug\net7.0\GB_HW19.csproj.AssemblyReference.cache
+D:\C# Prog\CS_VSC\GB_HW19\obj\Debug\net7.0\GB_HW19.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Prog\CS_VSC\GB_HW19\obj\Debug\net7.0\GB_HW19.AssemblyInfoInputs.cache
+D:\C# Prog\CS_VSC\GB_HW19\obj\Debug\net7.0\GB_HW19.AssemblyInfo.cs
+D:\C# Prog\CS_VSC\GB_HW19\obj\Debug\net7.0\GB_HW19.csproj.CoreCompileInputs.cache
+D:\C# Prog\CS_VSC\GB_HW19\obj\Debug\net7.0\GB_HW19.dll
+D:\C# Prog\CS_VSC\GB_HW19\obj\Debug\net7.0\refint\GB_HW19.dll
+D:\C# Prog\CS_VSC\GB_HW19\obj\Debug\net7.0\GB_HW19.pdb
+D:\C# Prog\CS_VSC\GB_HW19\obj\Debug\net7.0\GB_HW19.genruntimeconfig.cache
+D:\C# Prog\CS_VSC\GB_HW19\obj\Debug\net7.0\ref\GB_HW19.dll

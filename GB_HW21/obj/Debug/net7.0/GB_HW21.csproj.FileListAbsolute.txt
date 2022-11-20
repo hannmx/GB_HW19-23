@@ -1,0 +1,15 @@
+D:\C# Prog\CS_VSC\GB_HW21\bin\Debug\net7.0\GB_HW21.exe
+D:\C# Prog\CS_VSC\GB_HW21\bin\Debug\net7.0\GB_HW21.deps.json
+D:\C# Prog\CS_VSC\GB_HW21\bin\Debug\net7.0\GB_HW21.runtimeconfig.json
+D:\C# Prog\CS_VSC\GB_HW21\bin\Debug\net7.0\GB_HW21.dll
+D:\C# Prog\CS_VSC\GB_HW21\bin\Debug\net7.0\GB_HW21.pdb
+D:\C# Prog\CS_VSC\GB_HW21\obj\Debug\net7.0\GB_HW21.csproj.AssemblyReference.cache
+D:\C# Prog\CS_VSC\GB_HW21\obj\Debug\net7.0\GB_HW21.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Prog\CS_VSC\GB_HW21\obj\Debug\net7.0\GB_HW21.AssemblyInfoInputs.cache
+D:\C# Prog\CS_VSC\GB_HW21\obj\Debug\net7.0\GB_HW21.AssemblyInfo.cs
+D:\C# Prog\CS_VSC\GB_HW21\obj\Debug\net7.0\GB_HW21.csproj.CoreCompileInputs.cache
+D:\C# Prog\CS_VSC\GB_HW21\obj\Debug\net7.0\GB_HW21.dll
+D:\C# Prog\CS_VSC\GB_HW21\obj\Debug\net7.0\refint\GB_HW21.dll
+D:\C# Prog\CS_VSC\GB_HW21\obj\Debug\net7.0\GB_HW21.pdb
+D:\C# Prog\CS_VSC\GB_HW21\obj\Debug\net7.0\GB_HW21.genruntimeconfig.cache
+D:\C# Prog\CS_VSC\GB_HW21\obj\Debug\net7.0\ref\GB_HW21.dll
